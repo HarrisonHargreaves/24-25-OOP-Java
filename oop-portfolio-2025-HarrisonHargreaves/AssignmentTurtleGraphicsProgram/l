@@ -1,0 +1,38 @@
+clear
+clear
+pendown
+move 100
+reverse 100
+left 90
+move 100
+right 90
+move 100
+penup
+right 90
+move 100
+clear
+pendown
+yellow
+move 50
+green
+move 50
+blue
+move 50
+pink
+move 50
+right 90
+move 100
+clear
+right 90
+move 100
+reset
+windows 100
+windows 100
+windows 100
+windows 100
+windows 100
+clear
+clear
+move 100
+right 90
+move 100
